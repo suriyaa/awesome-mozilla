@@ -2,7 +2,9 @@
 
 **A curated list of awesome [Mozilla](https://github.com/mozilla) projects, frameworks, libraries, software and resources created by [Suriyaa Sundararuban](https://github.com/SuriyaaKudoIsc) and by [these awesome contributors](https://github.com/SuriyaaKudoIsc/awesome-mozilla/graphs/contributors).**
 
-*Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-python](https://github.com/vinta/awesome-python).*
+*Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-windows](https://github.com/Awesome-Windows/Awesome) and [awesome-python](https://github.com/vinta/awesome-python).*
+
+# <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/chrome_2016-06-11_19-02-31.png" alt="table of contents">
 
 - [Awesome Mozilla](#awesome-mozilla)
     - [Projects](#projects)
@@ -17,6 +19,7 @@
     - [Newsletter](#newsletter)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
+- [License](#license)
 
 - - -
 
@@ -92,6 +95,12 @@ List of lists.
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/SuriyaaKudoIsc/awesome-mozilla/blob/master/CONTRIBUTING.md) first.
 
 I will keep some pull requests open if I'm not sure whether those projects and other stuffs are awesome, you could [vote for them](https://github.com/SuriyaaKudoIsc/awesome-mozilla/pulls) by adding :+1: to them.
+
+# License
+
+[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 - - -
 
