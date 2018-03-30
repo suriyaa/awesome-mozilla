@@ -1,4 +1,4 @@
-# Awesome [Mozilla](https://www.mozilla.org/en/) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome [Mozilla](https://www.mozilla.org/en-US/) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
 
 **A curated list of awesome [Mozilla](https://github.com/mozilla) projects, frameworks, libraries, software and resources created by [Suriyaa Sundararuban](https://github.com/SuriyaaKudoIsc) and by [these awesome contributors](https://github.com/SuriyaaKudoIsc/awesome-mozilla/graphs/contributors).**
 
@@ -75,7 +75,7 @@ How to learn more about Mozilla.
 ## Other Websites
 
 * [/r/CoolGithubProjects](https://www.reddit.com/r/coolgithubprojects/)
-* [/r/Mozilla](https://www.reddit.com/r/mozilla)
+* [/r/Mozilla](https://www.reddit.com/r/mozilla/)
 * [Mozilla repositories on GitHub with the most stars](https://github.com/search?o=desc&q=mozilla&s=stars&type=Repositories)
 
 ## Newsletter
@@ -98,10 +98,10 @@ I will keep some pull requests open if I'm not sure whether those projects and o
 
 # License
 
-[![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![Creative Commons License](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@SuriyaaKudoIsc](https://twitter.com/SuriyaaKudoIsc) on Twitter or [open an issue](https://github.com/SuriyaaKudoIsc/awesome-mozilla/issues/new) on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@SuriyaaKudoIsc](https://twitter.com/SuriyaaKudoIsc) on Twitter or [open an issue](https://github.com/SuriyaaKudoIsc/awesome-mozilla/issues) on GitHub.
