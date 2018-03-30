@@ -1,4 +1,4 @@
-# Awesome [Mozilla](https://www.mozilla.org/en-US/) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome [Mozilla](https://www.mozilla.org/en-US/) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis CI Build Status](https://api.travis-ci.org/SuriyaaKudoIsc/awesome-mozilla.svg?branch=master)](https://travis-ci.org/SuriyaaKudoIsc/awesome-mozilla)
 
 **A curated list of awesome [Mozilla](https://github.com/mozilla) projects, frameworks, libraries, software and resources created by [Suriyaa Sundararuban](https://github.com/SuriyaaKudoIsc) and by [these awesome contributors](https://github.com/SuriyaaKudoIsc/awesome-mozilla/graphs/contributors).**
 
