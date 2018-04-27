@@ -47,6 +47,7 @@
 *Software programs made by the Mozilla community.*
 
 * [coss](https://github.com/mozilla/coss) -  Mozilla's Community Support Software
+* [pontoon](https://github.com/mozilla/pontoon) - Localization tool used at Mozilla
 
 ## Websites
 
@@ -55,6 +56,7 @@
 * [mozillians](https://github.com/mozilla/mozillians) - Mozilla community directory -- A centralized directory of all Mozilla contributors!
 * [bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 * [foundation.mozilla.org](https://github.com/mozilla/foundation.mozilla.org) - Mozilla Foundation website
+* [newfirefox.mozilla.community](https://github.com/mozilla/newfirefox.mozilla.community) - Social Media Campaign website for Enthusiasts for the Quantum Release
 * [donate.mozilla.org](https://github.com/mozilla/donate.mozilla.org) - Mozilla donation platform
 
 # Resources
