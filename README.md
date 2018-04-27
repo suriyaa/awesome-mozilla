@@ -55,6 +55,7 @@
 * [mozillians](https://github.com/mozilla/mozillians) - Mozilla community directory -- A centralized directory of all Mozilla contributors!
 * [bedrock](https://github.com/mozilla/bedrock) - Making mozilla.org awesome, one pebble at a time
 * [foundation.mozilla.org](https://github.com/mozilla/foundation.mozilla.org) - Mozilla Foundation website
+* [donate.mozilla.org](https://github.com/mozilla/donate.mozilla.org) - Mozilla donation platform
 
 # Resources
 
