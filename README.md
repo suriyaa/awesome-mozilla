@@ -47,6 +47,7 @@
 *Software programs made by the Mozilla community.*
 
 * [coss](https://github.com/mozilla/coss) -  Mozilla's Community Support Software
+* [pontoon](https://github.com/mozilla/pontoon) - Localization tool used at Mozilla
 
 ## Websites
 
