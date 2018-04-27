@@ -58,6 +58,7 @@
 * [foundation.mozilla.org](https://github.com/mozilla/foundation.mozilla.org) - Mozilla Foundation website
 * [newfirefox.mozilla.community](https://github.com/mozilla/newfirefox.mozilla.community) - Social Media Campaign website for Enthusiasts for the Quantum Release
 * [donate.mozilla.org](https://github.com/mozilla/donate.mozilla.org) - Mozilla donation platform
+* [goggles.mozilla.org](https://github.com/mozilla/goggles.mozilla.org) - Look under the hood of any website and tweak all the things
 
 # Resources
 
