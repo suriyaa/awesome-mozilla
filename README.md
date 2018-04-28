@@ -49,6 +49,7 @@
 * [coss](https://github.com/mozilla/coss) -  Mozilla's Community Support Software
 * [pontoon](https://github.com/mozilla/pontoon) - Localization tool used at Mozilla
 * [Community Support Software (CoSS)](https://github.com/mozilla/coss) - Mozilla's Community Support Software
+* [Balrog](https://github.com/mozilla/balrog) - Next generation update service for Mozilla products
 
 ## Websites
 
