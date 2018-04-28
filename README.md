@@ -59,6 +59,7 @@
 * [newfirefox.mozilla.community](https://github.com/mozilla/newfirefox.mozilla.community) - Social Media Campaign website for Enthusiasts for the Quantum Release
 * [donate.mozilla.org](https://github.com/mozilla/donate.mozilla.org) - Mozilla donation platform
 * [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time
+* [goggles.mozilla.org](https://github.com/mozilla/goggles.mozilla.org) - Look under the hood of any website and tweak all the things
 
 # Resources
 
