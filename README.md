@@ -29,6 +29,7 @@
 
 * [kuma](https://github.com/mozilla/kuma) - The project that powers MDN.
 * [gecko-projects](https://github.com/mozilla/gecko-projects) - The layout engine developed by the Mozilla Project
+* [The Rust Programming Language](https://github.com/rust-lang/rust) - A safe, concurrent, practical language
 
 ## Frameworks
 
