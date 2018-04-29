@@ -113,4 +113,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@SuriyaaKudoIsc](https://twitter.com/SuriyaaKudoIsc) on Twitter or [open an issue](https://github.com/SuriyaaKudoIsc/awesome-mozilla/issues) on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@SuriyaaKudoIsc](https://twitter.com/SuriyaaKudoIsc) on Twitter, via [e-mail](mailto:github@suriyaa.tk) or [open an issue](https://github.com/SuriyaaKudoIsc/awesome-mozilla/issues) on GitHub.
