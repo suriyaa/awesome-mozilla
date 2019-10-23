@@ -31,6 +31,7 @@
 * [gecko-projects](https://github.com/mozilla/gecko-projects) - The layout engine developed by the Mozilla Project
 * [The Servo Parallel Browser Engine Project](https://github.com/servo/servo) - The Servo Browser Engine
 * [The Rust Programming Language](https://github.com/rust-lang/rust) - A safe, concurrent, practical language
+* [Common Voice](https://github.com/mozilla/voice-web) - Common Voice is part of Mozilla's initiative to help teach machines how real people speak.
 
 ## Frameworks
 
