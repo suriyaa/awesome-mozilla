@@ -27,7 +27,7 @@
 
 *Mozilla Projects.*
 
-* [kuma](https://github.com/mozilla/kuma) - The project that powers MDN.
+* [kuma](https://github.com/mdn/kuma) - The project that powers MDN.
 * [gecko-projects](https://github.com/mozilla/gecko-projects) - The layout engine developed by the Mozilla Project
 * [The Servo Parallel Browser Engine Project](https://github.com/servo/servo) - The Servo Browser Engine
 * [The Rust Programming Language](https://github.com/rust-lang/rust) - A safe, concurrent, practical language
