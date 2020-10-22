@@ -1,6 +1,6 @@
-# Awesome [Mozilla](https://www.mozilla.org/en-US/) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis CI Build Status](https://api.travis-ci.org/SuriyaaKudoIsc/awesome-mozilla.svg?branch=master)](https://travis-ci.org/SuriyaaKudoIsc/awesome-mozilla) [![Open Source Helpers](https://www.codetriage.com/suriyaakudoisc/awesome-mozilla/badges/users.svg)](https://www.codetriage.com/suriyaakudoisc/awesome-mozilla) [![Tweet](https://img.shields.io/twitter/url.svg?style=social&url=http%3A%2F%2Fshields.io)](https://twitter.com/intent/tweet?text=Read%20this%20awesome%20list%20about%20Mozilla%20on%20GitHub&url=https://github.com/SuriyaaKudoIsc/awesome-mozilla&via=SuriyaaKudoIsc&hashtags=awesome,mozilla,github,list,developers)
+# Awesome [Mozilla](https://www.mozilla.org/en-US/) [![Awesome](https://awesome.re/badge.svg)](https://github.com/sindresorhus/awesome) [![Travis CI Build Status](https://api.travis-ci.org/suriyaa/awesome-mozilla.svg?branch=master)](https://travis-ci.org/suriyaa/awesome-mozilla) [![Open Source Helpers](https://www.codetriage.com/suriyaakudoisc/awesome-mozilla/badges/users.svg)](https://www.codetriage.com/suriyaakudoisc/awesome-mozilla) [![Tweet](https://img.shields.io/twitter/url.svg?style=social&url=http%3A%2F%2Fshields.io)](https://twitter.com/intent/tweet?text=Read%20this%20awesome%20list%20about%20Mozilla%20on%20GitHub&url=https://github.com/suriyaa/awesome-mozilla&hashtags=awesome,mozilla,github,list,developers)
 
-**A curated list of awesome [Mozilla](https://github.com/mozilla) projects, frameworks, libraries, software and resources created by [Suriyaa Sundararuban](https://github.com/SuriyaaKudoIsc) and by [these awesome contributors](https://github.com/SuriyaaKudoIsc/awesome-mozilla/graphs/contributors).**
+**A curated list of awesome [Mozilla](https://github.com/mozilla) projects, frameworks, libraries, software and resources created by [Suriyaa Sundararuban](https://github.com/suriyaa) and by [these awesome contributors](https://github.com/suriyaa/awesome-mozilla/graphs/contributors).**
 
 *Inspired by [awesome](https://github.com/sindresorhus/awesome), [awesome-windows](https://github.com/Awesome-Windows/Awesome) and [awesome-python](https://github.com/vinta/awesome-python).*
 
@@ -102,9 +102,9 @@ List of lists.
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/SuriyaaKudoIsc/awesome-mozilla/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/suriyaa/awesome-mozilla/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those projects and other stuffs are awesome, you could [vote for them](https://github.com/SuriyaaKudoIsc/awesome-mozilla/pulls) by adding :+1: to them.
+I will keep some pull requests open if I'm not sure whether those projects and other stuffs are awesome, you could [vote for them](https://github.com/suriyaa/awesome-mozilla/pulls) by adding :+1: to them.
 
 # License
 
@@ -114,4 +114,4 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@SuriyaaKudoIsc](https://twitter.com/SuriyaaKudoIsc) on Twitter, via [e-mail](mailto:github@suriyaa.tk) or [open an issue](https://github.com/SuriyaaKudoIsc/awesome-mozilla/issues) on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me via [e-mail](mailto:github@suriyaa.tk) or [open an issue](https://github.com/suriyaa/awesome-mozilla/issues) on GitHub.
